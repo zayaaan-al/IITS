@@ -42,7 +42,7 @@ const defaultUniversities: University[] = [
     location: "Tirana, Albania",
     description:
       "Albania's leading technical university specializing in engineering, architecture, and applied sciences with modern research facilities.",
-    image: "/universities/arts.webp",
+    image: "/universities/tirana.png",
     established: "1951",
     students: "12,000+",
     ranking: "#2 in Albania",
