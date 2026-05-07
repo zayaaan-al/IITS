@@ -42,7 +42,7 @@ const defaultUniversities: University[] = [
     location: "Tirana, Albania",
     description:
       "Albania's leading technical university specializing in engineering, architecture, and applied sciences with modern research facilities.",
-    image: "/universities/epoka.png",
+    image: "/universities/polytechnic.png",
     established: "1951",
     students: "12,000+",
     ranking: "#2 in Albania",
@@ -53,7 +53,7 @@ const defaultUniversities: University[] = [
     location: "Tirana, Albania",
     description:
       "Premier institution for fine arts, music, and performing arts education in Albania with internationally recognized programs.",
-    image: "/universities/durres.png",
+    image: "/universities/art.png",
     established: "1966",
     students: "3,500+",
     ranking: "Top Arts School",
