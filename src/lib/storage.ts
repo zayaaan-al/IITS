@@ -42,7 +42,7 @@ const defaultUniversities: University[] = [
     location: "Tirana, Albania",
     description:
       "Albania's leading technical university specializing in engineering, architecture, and applied sciences with modern research facilities.",
-    image: "/universities/tirana.png",
+    image: "/universities/epoka.png",
     established: "1951",
     students: "12,000+",
     ranking: "#2 in Albania",
@@ -53,7 +53,7 @@ const defaultUniversities: University[] = [
     location: "Tirana, Albania",
     description:
       "Premier institution for fine arts, music, and performing arts education in Albania with internationally recognized programs.",
-    image: "/universities/arts.webp",
+    image: "/universities/durres.png",
     established: "1966",
     students: "3,500+",
     ranking: "Top Arts School",
@@ -75,7 +75,7 @@ const defaultUniversities: University[] = [
     location: "Vlora, Albania",
     description:
       "A public university located in the coastal city of Vlora, known for its marine sciences and tourism management programs.",
-    image: "/universities/arts.webp",
+    image: "/universities/vlora.png",
     established: "1994",
     students: "8,000+",
     ranking: "#5 in Albania",
